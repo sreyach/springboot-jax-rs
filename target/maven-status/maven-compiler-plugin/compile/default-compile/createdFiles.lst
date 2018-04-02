@@ -1,0 +1,9 @@
+com\test\entity\Article.class
+com\test\filter\CORSFilter.class
+com\test\controller\Controller.class
+com\test\service\MasterServiceImpl.class
+com\test\dao\IArticleDAO.class
+com\test\config\JerseyConfig.class
+com\test\Main.class
+com\test\service\MasterService.class
+com\test\dao\ArticleDAO.class
